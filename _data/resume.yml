@@ -6,7 +6,6 @@ jobtitle: "" #可空不显示
 photo: "" #照片可空，不显示 #联系方式
 contact: #联系方式连接等3~5行
 - text: "leetrt@gmail.com" #文本内容 href: 'mailto:youremail@example.com' #链接，无链接则空 icon: 'icons/email.svg' #图标 svg文件
-- text: "15369225126" href: 'tel:15369225126' icon: 'icons/phone.svg'
 - text: "kyle-blog.com" href: 'kyle-blog.com' icon: 'icons/web.svg'
 - text: "KYJPG" href: 'https://github.com/KYJPG' icon: "icons/github.svg" attr: 'target="_blank"' #新标签页打开 # - text: "地址" # icon: "icons/location.svg" #main下面是主体内容，类别条数不限
 main: #简历主要内容，
